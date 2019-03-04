@@ -1,0 +1,19 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>ZeMERP.API</name>
+    </assembly>
+    <members>
+        <member name="M:ZeMERP.API.Controllers.EmployeeController.Get">
+            <summary>
+            Get All Employees.
+            </summary> 
+        </member>
+        <member name="M:ZeMERP.API.Controllers.EmployeeController.Get(System.Int32)">
+            <summary>
+            Get a specific Employee.
+            </summary>
+            <param name="id"></param>  
+        </member>
+    </members>
+</doc>
